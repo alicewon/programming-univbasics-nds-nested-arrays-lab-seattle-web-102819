@@ -24,7 +24,7 @@ def assembled_matrix
 
   ENNET_HOUSE.sort()
   ENFIELD_TENNIS_ACADEMY.sort()
-    
+
 end
 
 def array_literal_matrix
